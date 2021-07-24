@@ -16,7 +16,7 @@ export default function About() {
 
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6" >
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Abdulbasit.
+            Hi, I'm Abdulbasit. <br/>
             <br className="hidden lg:inline-block" />I love to build amazing
             apps.
           </h1>
