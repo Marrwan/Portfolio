@@ -18,7 +18,7 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Abdulbasit. <br/>
             <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+           websites and apps.
           </h1>
           <p className="mb-8 leading-relaxed">
           I help designers, small agencies and businesses bring their ideas to life. Powered by my diverse set of skills, I turn your requirements into amazing websites - on time and on budget.
