@@ -5,6 +5,7 @@ import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Zuri from "./components/Zuri";
 
 
 export default function App() {
@@ -14,6 +15,7 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
+      <Zuri/>
       <Contact />
     </main>
   );
