@@ -16,7 +16,7 @@ export const projects = [
     link: "https://jambpractice.herokuapp.com/",
   },
   {
-    title: "Oline exam system",
+    title: "Online exam system",
     subtitle: "Node.js, Bootstrap and Mongodb",
     description:
       "Online examination system for examination bodies",
